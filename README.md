@@ -14,7 +14,7 @@ For now, there shall be a couple of aims:
 Also to remember, I wanna document my process (ie take notes of what i've been doing) so i can refer to this in the future as a misc data processing example
 
 ## separate notes
-so it turns out there's actually a heck ton of data that people just stick online, such as OS OpenData stuff. also a bit of a sidetrack but apparently Ordnance (as in OS) actually does refer to guns n stuff, since OS (which is apparently teh national mapping agency for GB) was originally setup to map Scotland for military reasons (source is [wikipedia](https://en.wikipedia.org/wiki/Ordnance_Survey) but there's probably a proper one somewhere)
+so it turns out there's actually a heck ton of data that people just stick online, such as OS OpenData stuff. also a bit of a sidetrack but apparently Ordnance (as in OS) actually does refer to guns n stuff, since OS (which is apparently the national mapping agency for GB) was originally setup to map Scotland for military reasons (source is [wikipedia](https://en.wikipedia.org/wiki/Ordnance_Survey) but there's probably a proper one somewhere)
 
 ## (links)
 
