@@ -1,3 +1,16 @@
+# misc notes on best practice
+so i get that there is such a thing as best practice for contributing to repos. HOWEVER, idk if it's worth doing it all for this. with that said, there are a couple of things i would like to try to stick with
+
+## 1 - commit messages
+so wrt the commit messages, i wanna stick to meaningful messages, possibly with a 'tag' at the start (similar to how i was working on the 2048 repo). i reckon categories should include:
+
+- docs - updates to documentation. from hereon i'll also use this tag for misc notes as well (ie updates to files like this one)
+- fix - bugfix / fixed broken functionality
+- refactor - for refactoring / rewriting code to make better / neater / more efficient etc
+- feature - added new feature
+
+(will add more down the line if i feel the need)
+
 # random things
 ## gads.png
 bro why are there google ads on the met office data page? and a comment saying not to delete? i'd assume it's built into one of the deployment modules / package thingies used but still? kinda mad
