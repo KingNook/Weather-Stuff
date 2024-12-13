@@ -11,6 +11,11 @@ so wrt the commit messages, i wanna stick to meaningful messages, possibly with 
 
 (will add more down the line if i feel the need)
 
+## things i probably won't do but i think are worth noting
+
+### pre-commit hooks
+so this is probably quite useful actually and maybe something i'll implement later down the line, but for now, most of this project will be research anyways, so i sorta doubt it'll be that useful. worth looking into though
+
 # random things
 ## gads.png
 bro why are there google ads on the met office data page? and a comment saying not to delete? i'd assume it's built into one of the deployment modules / package thingies used but still? kinda mad
