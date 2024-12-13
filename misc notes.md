@@ -9,3 +9,5 @@ so source is [arcgis](https://www.arcgis.com/index.html) which in itself is a pr
 quote from website is ` Improve decision-making by collecting and managing data, analyzing it, and easily sharing maps and apps within a connected and collaborative web geographic information system (GIS).`
 
 ah so a small amount of further research does indeed show that a GIS is a thing (eg [wikipedia](https://en.wikipedia.org/wiki/Geographic_information_system)) that basically 'does stuff to' geographic data (processing + visualisation)
+
+indeed, according to [wikipedia](https://en.wikipedia.org/wiki/Geographic_information_system), ArcGIS currently 'dominates the GIS market' although apparently AutoDesk also has a product (i mean what don't they have a ridiculously expensive product for let's be honest here)
